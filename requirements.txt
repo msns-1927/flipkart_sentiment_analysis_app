@@ -6,3 +6,5 @@ joblib
 nltk
 matplotlib
 seaborn
+mlflow
+prefect
